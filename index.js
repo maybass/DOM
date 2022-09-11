@@ -26,7 +26,7 @@ entrada.classList.replace('orange', 'rainbow')
 
 titulo.textContent = "Hello World !!!"
 
-titulo.innerHTML = " Hello World !!!<span> Pronando</span> !!!"
+titulo.innerHTML = " Hello World !!!<span> Probando</span> !!!"
 
 //iteracion y eventos , forEach y for of funcionan, map habria q hacer un array.from para tratarlo como array 
 
